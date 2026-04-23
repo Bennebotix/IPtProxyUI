@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@ %2$@ sprawia, że Twój ruch wygląda na \"losowy\".";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@ %2$@ sprawia, że Twój ruch wygląda jak rozmowa telefoniczna z innym użytkownikiem w sieci.";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "Automatic Configuration";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "Konfiguracja Mostu";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "Wbudowany %@";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "Nie został udzielony dostęp do Kamery lub skanowanie Kodów QR nie jest wspierane przez Twoje urządzenie.";
+
+/* AlertHelper */
+"Cancel" = "Anuluj";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "Skopiuj URL do Schowka";
+
+/* MoatViewController */
+"Couldn't understand server response." = "Nie udało się zrozumieć odpowiedzi serwera.";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "Niestandardowe Mosty";
+
+/* Transport */
+"custom bridges" = "custom bridges";
+
+/* AlertHelper */
+"Error" = "Błąd";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "I'm sure I cannot connect without a bridge.";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "Jeśli wybrany typ mostu nie działa, spróbuj użyć innego.";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "Jeśli jesteś w kraju lub używasz połączenia, które cenzuruje Tora, możesz potrzebować mostów.";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "W innej przeglądarce, odwiedź %@ i naciśnij \"Pobierz mostki\" > \"Po prostu daj mi mosty!\"";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek bridge";
+
+/* BridgeConfViewController */
+"No Bridges" = "Brak Mostów";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "Brak sukcesu, lecz w zamian \"%@\".";
+
+/* ApiError */
+"No valid HTTP response." = "Brak prawidłowej odpowiedzi HTTP.";
+
+/* Transport */
+"Obfs4 bridges" = "Obfs4 bridges";
+
+/* AlertHelper */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "On-demand bridges";
+
+/* CustomBridgesViewController */
+"Other" = "Inne";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "Wklej Mosty";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "Kod QR nie mógł zostać odczytany! Jesteś pewien, że skanujesz kod QR z witryny %@?";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "Uzyskaj Mosty od torproject.org";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "Żądanie nie mogło zostać stworzone. Sprawdź hosta oraz nazwę użytkownika/hasło!";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "Poproś przez E-Mail";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "Request via Telegram";
+
+/* ApiError */
+"Response body missing." = "Brak treści odpowiedzi.";
+
+/* BridgesConfViewController+Shared */
+"Save" = "Zapisz";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "Zeskanuj Kod QR";
+
+/* Transport */
+"Snowflake bridges" = "Snowflake bridges";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "Snowflake bridges (AMP rendezvous)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "Try Auto-Configuration";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "Prześlij Kod QR";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "Używaj Niestandardowych Mostów";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "Użyj Kodu QR";

@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@ %2$@ saa tietoliikenteen näyttämään \"satunnaiselta\".";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@ %2$@ saa tietoliikenteesi näyttämään puhelulta satunnaiselle Internetin käyttäjälle.";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "Automaattinen määritys";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "Sillan määritys";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "Sisäänrakennettu %@";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "Kameran käyttöoikeutta ei ole myönnetty tai laitteesi ei tue QR-koodien lukua.";
+
+/* AlertHelper */
+"Cancel" = "Peruuta";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "Kopioi URL-osoite leikepöydälle";
+
+/* MoatViewController */
+"Couldn't understand server response." = "Palvelimen vastausta ei ymmärretty";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "Mukautetut sillat";
+
+/* Transport */
+"custom bridges" = "mukautetut sillat";
+
+/* AlertHelper */
+"Error" = "Virhe";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "Olen varma, etten voi muodostaa yhteyttä ilman siltaa.";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "Jos yksi siltatyyppi ei toimi, kokeile erilaista vaihtoehtoa.";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "Jos olet maassa tai käytät yhteyttä, joka sensuroi Tor-yhteydet, saattaa siltojen käyttäminen olla tarpeen.";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "Avaa erillisessä selaimessa osoite %@ ja napauta \"Get Bridges\" > \"Just give me bridges!\"";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek bridge";
+
+/* BridgeConfViewController */
+"No Bridges" = "Siltoja ei ole";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = " onnistunut, mutta \"%@\" sen sijaan.";
+
+/* ApiError */
+"No valid HTTP response." = "Ei kelvollista HTTP-vastausta.";
+
+/* Transport */
+"Obfs4 bridges" = "obfs4-sillat";
+
+/* AlertHelper */
+"OK" = "Valmis";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "Tilaussillat";
+
+/* CustomBridgesViewController */
+"Other" = "Muu";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "Liitä sillat";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "QR-koodia ei voitu selvittää! Luitko QR-koodin varmasti osoitteesta %@?";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "Pyydä siltoja torproject.org-palvelusta";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "Pyyntöä ei voitu muodostaa. Tarkista palvelin, käyttäjätunnus ja salasana.";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "Pyydä sähköpostin kautta";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "Pyydä Telegramin kautta";
+
+/* ApiError */
+"Response body missing." = "Vastauksen sisältö puuttuu.";
+
+/* BridgesConfViewController+Shared */
+"Save" = "Tallenna";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "Lue QR-koodi";
+
+/* Transport */
+"Snowflake bridges" = "Snowflake-sillat";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "Snowflake-sillat (AMP-kohtaaminen)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "Kokeile automaattista määritystä";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "Lataa QR-koodi";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "Käytä mukautettuja siltoja";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "Käytä QR-koodia";

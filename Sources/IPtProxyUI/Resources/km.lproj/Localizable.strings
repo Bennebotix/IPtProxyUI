@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@%2$@ធ្វើឱ្យ​ចរាចរណ៍របស់អ្នក​លេចឡើងថា \"ចៃដន្យ\"។";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@%2$@ធ្វើឱ្យ​ចរាចរណ៍​របស់​អ្នក​មើលទៅ​ដូចជា​ការហៅ​ទូរស័ព្ទ​ទៅ​កាន់​អ្នកប្រើណាមួយ​នៅលើ​អ៊ីនធឺណិត។";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "ការកំណត់ដោយស្វ័យប្រវត្តិ";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "ការកំណត់ច្រក";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "%@ ដែលដំឡើងមកស្រាប់";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "ការចូលប្រើ​កាមេរ៉ា​មិនត្រូវបាន​ផ្ដល់​សិទ្ធិ ឬ​​ឧបករណ៍​របស់​អ្នកមិនគាំទ្រ​ការ​ស្គែន QR Code ។";
+
+/* AlertHelper */
+"Cancel" = "បោះបង់";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "ចម្លង URL ទៅឃ្នាប";
+
+/* MoatViewController */
+"Couldn't understand server response." = "មិនយល់ពី​ការឆ្លើយតប​របស់​ម៉ាស៊ីនមេ។";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "កំណត់ច្រកដោយខ្លួនឯង";
+
+/* Transport */
+"custom bridges" = "ច្រកផ្ទាល់ខ្លួន";
+
+/* AlertHelper */
+"Error" = "កំហុស";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "ខ្ញុំច្បាស់ថាខ្ញុំមិនអាចភ្ជាប់ដោយគ្មានច្រកទេ។";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "ប្រសិនបើ​ប្រភេទច្រកមួយ​មិន​ដំណើរការ សូម​ព្យាយាម​ប្រើច្រកផ្សេងទៀត។";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "ប្រសិនបើ​អ្នក​នៅក្នុង​ប្រទេស​មួយ ឬ​កំពុង​ប្រើប្រាស់​ការ​តភ្ជាប់​មួយ​ដែលរាំងខ្ទប់ Tor នោះ​អ្នក​ប្រហែលជា​ត្រូវការ​ប្រើច្រកហើយ។";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "នៅ​ក្នុង​កម្មវិធី​រុករក​ដាច់ដោយឡែក​មួយទៀត សូមចូលមើល %@និង​ចុច \"ទទួលយកច្រក\" > \"សូម​ឱ្យច្រកមក​ខ្ញុំ!\"";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek bridge";
+
+/* BridgeConfViewController */
+"No Bridges" = "មិនមានច្រក";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "មិន​ជោគជ័យទេ ប៉ុន្តែ \"%@\" ជំនួសវិញ។";
+
+/* ApiError */
+"No valid HTTP response." = "មិនមាន​ការឆ្លើយតប HTTP ដែលមានសុពលភាព​ទេ។";
+
+/* Transport */
+"Obfs4 bridges" = "ច្រក Obfs4 ";
+
+/* AlertHelper */
+"OK" = "យល់ព្រម";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "On-demand bridges";
+
+/* CustomBridgesViewController */
+"Other" = "ផ្សេងៗ";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "បិទភ្ជាប់ច្រកពីឃ្នាប";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "QR Code មិនអាច​​បំលែង​កូដ​បានទេ! តើ​អ្នក​ប្រាកដ​ទេថា​អ្នក​បាន​ស្គែន QR Code ពី %@?";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "ស្នើសុំច្រកពី torproject.org";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "សំណើ​មិនអាច​បង្កើត​បានទេ។ សូម​ពិនិត្យ​ម៉ាស៊ីន និង​ឈ្មោះ​អ្នកប្រើប្រាស់/ពាក្យសម្ងាត់!";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "សំណើ​តាមរយៈ​សារអេឡិចត្រូនិក";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "Request via Telegram";
+
+/* ApiError */
+"Response body missing." = "តួនៃការឆ្លើយតប​បាត់​";
+
+/* BridgesConfViewController+Shared */
+"Save" = "Save";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "ស្គែន​ QR Code";
+
+/* Transport */
+"Snowflake bridges" = "ច្រក Snowflake";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "ច្រក Snowflake (AMP rendezvous)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "សាកល្បងការកំណត់ដោយស្វ័យប្រវត្តិ";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "ផ្ទុកឡើង QR Code ";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "ប្រើច្រកដែល​កំណត់ដោយ​ខ្លួនឯង";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "ប្រើ QR Code";

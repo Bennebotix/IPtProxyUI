@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@ %2$@ e bën trafikun tuaj të duket si “i rëndomtë”.";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@ %2$@ e bën trafikun tuaj të duket si një thirrje telefonike drejt një përdoruesi kuturu në internet.";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "Formësim i Vetvetishëm";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "Formësim Ure";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "%@ e brendshme";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "S’u akordua leje përdorimi kamere, ose nga pajisja juaj nuk mbulohet skanim Kodi QR.";
+
+/* AlertHelper */
+"Cancel" = "Anuloje";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "Kopjoje URL-në në të Papastër";
+
+/* MoatViewController */
+"Couldn't understand server response." = "S’u kuptua dot përgjigja e shërbyesit.";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "Ura Vetjake";
+
+/* Transport */
+"custom bridges" = "ura vetjake";
+
+/* AlertHelper */
+"Error" = "Gabim";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "Jam i sigurt se s’mund të lidhem pa një urë.";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "Nëse një lloj urash s’funksionon, provoni një tjetër.";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "Nëse gjendeni në një vend, ose po përdorni një lidhje, që censuron Tor-in, mund t’ju duhet të përdorni ura.";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "Në një shfletues tjetër, vizitoni %@ dhe prekni “Merrni ura” > “Thjesht Nëmni Ura!”";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Urë Meek";
+
+/* BridgeConfViewController */
+"No Bridges" = "Pa Ura";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "Pa sukses, “%@” në vend të kësaj.";
+
+/* ApiError */
+"No valid HTTP response." = "Pa përgjigje HTPP të vlefshme.";
+
+/* Transport */
+"Obfs4 bridges" = "Ura Obfs4";
+
+/* AlertHelper */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "Ura sipash kërkesash";
+
+/* CustomBridgesViewController */
+"Other" = "Të tjera";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "Ngjitni Ura";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "S’u shkodua dot Kod QR! Jeni i sigurt se skanuat një kod QR nga %@?";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "Kërkoni Ura prej torproject.org";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "S’u formua dot kërkesa. Ju lutemi, kontrolloni strehë dhe emër përdoruesi/fjalëkalim!";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "Kërkojeni përmes Email-i";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "Kërkojeni përmes Telegrami";
+
+/* ApiError */
+"Response body missing." = "Mungon lënda e përgjigjes.";
+
+/* BridgesConfViewController+Shared */
+"Save" = "Ruaje";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "Skano Kodin QR";
+
+/* Transport */
+"Snowflake bridges" = "Ura Snowflake";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "Ura Snowflake (AMP rendezvous)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "Provo Auto-Formësim";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "Ngarkoni Kod QR";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "Përdorni Ura Vetjake";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "Përdor Kod QR";

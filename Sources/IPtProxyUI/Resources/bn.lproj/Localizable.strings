@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@ %2$@ ব্যবহার করলে আপনার ট্রাফিককে দেখে আর দশজনের ট্রাফিকের মতোই মনে হবে।";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@ %2$@ ব্যবহার করলে আপনার ট্রাফিক দেখে মনে হবে ইন্টারনেটে কারো সাথে ফোনকল চলছে।";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "স্বয়ংক্রিয় কনফিগারেশন";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "ব্রিজ কনফিগারেশন";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "বিল্ট-ইন %@";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "ক্যামেরা ব্যবহারের অনুমতি দেওয়া হয় নি অথবা আপনার ডিভাইস QR কোড স্ক্যানিং সমর্থন করে না।";
+
+/* AlertHelper */
+"Cancel" = "বাতিল";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "ক্লিপবোর্ডে লিঙ্ক কপি করে নিন";
+
+/* MoatViewController */
+"Couldn't understand server response." = "সার্ভারের দেওয়া জবাব বোঝা যায় নি।";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "কাস্টম ব্রিজ";
+
+/* Transport */
+"custom bridges" = "custom bridges";
+
+/* AlertHelper */
+"Error" = "ত্রুটি";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "ব্রিজ ছাড়া যুক্ত হতে পারব না। আমি নিশ্চিত।";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "এক ধরনের ব্রিজে কাজ না হলে ভিন্ন একটি ব্যবহার করার চেষ্টা করুন।";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "যে দেশে আছেন সেখানে বা যে সংযোগ ব্যবহার করছেন তাতে যদি টরকে সেন্সর করা হয় তাহলে আপনাকে হয়তো ব্রিজ ব্যবহার করতে হবে।";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "অন্য একটি ব্রাউজারে %@ অ্যাড্রেসে গিয়ে এই লেখাগুলোতে ট্যাপ করুন: \"ব্রিজ নিয়ে নিন\" > \"ব্রিজ পেলেই হল!\"";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek bridge";
+
+/* BridgeConfViewController */
+"No Bridges" = "কোনো ব্রিজ নেই";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "সফল হয় নি, বরং \"%@\" পাওয়া গেছে।";
+
+/* ApiError */
+"No valid HTTP response." = "সঠিক কোনো HTTP রেসপন্স আসে নি।";
+
+/* Transport */
+"Obfs4 bridges" = "Obfs4 bridges";
+
+/* AlertHelper */
+"OK" = "ঠিক আছে";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "On-demand bridges";
+
+/* CustomBridgesViewController */
+"Other" = "অন্যান্য";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "ব্রিজ পেস্ট করুন";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "কিউআর কোড ডিকোড করা যায় নি! %@ থেকেই কিউআর কোড স্ক্যান করেছেন তো?";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "torproject.org থেকে ব্রিজ চেয়ে পাঠান";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "রিকোয়েস্ট তৈরি করা সম্ভব হয় নি। অনুগ্রহ করে দেখে নিন হোস্ট ও ইউজারনেম/পাসওয়ার্ড ঠিক আছে কি না।";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "ইমেইলে চেয়ে পাঠান";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "Request via Telegram";
+
+/* ApiError */
+"Response body missing." = "রেসপন্সের বডি নেই।";
+
+/* BridgesConfViewController+Shared */
+"Save" = "সংরক্ষণ করুন";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "কিউআর কোড স্ক্যান করুন";
+
+/* Transport */
+"Snowflake bridges" = "Snowflake bridges";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "Snowflake bridges (AMP rendezvous)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "অটো-কনফিগারেশন করে দেখুন";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "কিউআর কোড আপলোড করুন";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "কাস্টম ব্রিজ ব্যবহার করুন";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "কিউআর কোড ব্যবহার করুন";

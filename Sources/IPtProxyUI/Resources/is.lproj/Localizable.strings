@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@ %2$@ lætur netumferðina þína sýnast \"tilviljanakennda\".";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@ %2$@ lætur umferðina frá og til þín líta út eins og símtal við tilviljanakenndan aðila á netinu.";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "Sjálfvirk uppsetning";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "Uppsetning brúa";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "Innbyggð %@";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "Ekki var heimilaður aðgangur að myndavél eða að skönnun QR-kóða er ekki studd á tækinu þínu.";
+
+/* AlertHelper */
+"Cancel" = "Hætta við";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "Afrita slóð á klippispjald";
+
+/* MoatViewController */
+"Couldn't understand server response." = "Skildi ekki svar netþjónsins.";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "Sérsniðnar brýr";
+
+/* Transport */
+"custom bridges" = "sérsniðnum brúm";
+
+/* AlertHelper */
+"Error" = "Villa";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "Ég er viss um að ég geti ekki tengst án brúar.";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "Ef ein gerð brúa virkar ekki, skaltu prófa að nota einhverja aðra.";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "Ef þú ert í landi eða að nota tengingu sem ritskoðar Tor gætirðu þurft að nota brýr.";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "Í aðskildum vafra, farðu á %@ og ýttu á \"Ná í brýr\" > \"Gefðu mér bara brýrnar!\"";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek-brú";
+
+/* BridgeConfViewController */
+"No Bridges" = "Engar brýr";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "Tókst ekki, en \"%@\" í staðinn.";
+
+/* ApiError */
+"No valid HTTP response." = "Ekki gilt HTTP-svar.";
+
+/* Transport */
+"Obfs4 bridges" = "Obfs4-brúm";
+
+/* AlertHelper */
+"OK" = "Í lagi";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "Brýr eftir þörfum";
+
+/* CustomBridgesViewController */
+"Other" = "Annað";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "Líma brýr";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "Ekki var hægt að afkóða QR-kóðann! Ertu viss um að þú hafir skannað QR-kóða frá %@?";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "Biðja um brýr frá torproject.org";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "Mistókst að forma beiðni. Athugaðu hýsilvél og notandanafn/lykilorðið þitt!";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "Beiðni með tölvupósti";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "Biðja um í gegnum Telegram";
+
+/* ApiError */
+"Response body missing." = "Meginmál svars vantar.";
+
+/* BridgesConfViewController+Shared */
+"Save" = "Vista";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "Skanna QR-kóða";
+
+/* Transport */
+"Snowflake bridges" = "Snowflake-brúm";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "Snowflake-brúm (AMP rendezvous)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "Prófaðu sjálfvirka uppsetningu";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "Senda inn QR-kóða";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "Nota sérsniðnar brýr";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "Nota QR-kóða";

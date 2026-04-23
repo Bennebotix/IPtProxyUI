@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@ %2$@ ทำให้การจราจรของคุณดูเหมือน \"สุ่ม\"";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@ %2$@ ทำให้การจราจรของคุณดูเหมือนการโทรไปหาผู้ใช้ที่สุ่มขึ้นมาสักคนหนึ่งบนอินเทอร์เน็ต";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "การปรับแต่งอัตโนมัติ";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "การปรับแต่งสะพาน";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "%@ ที่มีอยู่แล้ว";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "ไม่ได้รับอนุญาตให้เข้าถึงกล้อง หรืออุปกรณ์ของคุณนั้นไม่รองรับการสแกนรหัส QR";
+
+/* AlertHelper */
+"Cancel" = "ยกเลิก";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "คัดลอก URL ไปยังคลิปบอร์ด";
+
+/* MoatViewController */
+"Couldn't understand server response." = "ไม่เข้าใจคำตอบสนองจากเซิร์ฟเวอร์";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "สะพานที่ปรับแต่งเอง";
+
+/* Transport */
+"custom bridges" = "สะพานที่ปรับแต่งเอง";
+
+/* AlertHelper */
+"Error" = "ผิดพลาด";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "ฉันแน่ใจว่าฉันไม่สามารถเชื่อมต่อได้ ถ้าไม่มีสะพาน";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "ถ้าสะพานชนิดหนึ่งใช้ไม่ได้ ให้ลองสะพานชนิดอื่น";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "ถ้าคุณอยู่ในประเทศ หรือใช้การเชื่อมต่อ ที่ปิดกั้น Tor คุณอาจต้องใช้สะพาน";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "ในเว็บเบราว์เซอร์ที่แยกไปอีกอัน ไปที่ %@ และแตะ \"ขอสะพาน\" > \"ให้สะพานฉันหน่อย!\"";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek bridge";
+
+/* BridgeConfViewController */
+"No Bridges" = "ไม่มีสะพาน";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "ไม่สำเร็จ แต่ \"%@\" แทน";
+
+/* ApiError */
+"No valid HTTP response." = "ไม่ใช่การตอบสนอง HTTP ที่ถูกรูปแบบ";
+
+/* Transport */
+"Obfs4 bridges" = "สะพาน Obfs4";
+
+/* AlertHelper */
+"OK" = "ตกลง";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "สะพานตามความต้องการ";
+
+/* CustomBridgesViewController */
+"Other" = "อื่นๆ";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "วางสะพาน";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "ไม่สามารถถอดรหัส QR ได้ คุณแน่ใจหรือไม่ว่าได้สแกนรหัส QR จาก %@?";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "ร้องขอสะพานจาก torproject.org";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "ไม่สามารถสร้างคำร้องได้ กรุณาตรวจสอบชื่อโฮสต์และชื่อผู้ใช้/รหัสผ่าน!";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "ร้องขอทางอีเมล";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "ร้องขอผ่านเทเลแกรม";
+
+/* ApiError */
+"Response body missing." = "ไม่มีเนื้อความตอบกลับ";
+
+/* BridgesConfViewController+Shared */
+"Save" = "บันทึก";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "สแกนรหัส QR";
+
+/* Transport */
+"Snowflake bridges" = "สะพาน Snowflake";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "สะพาน Snowflake (AMP rendezvous)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "ลองการปรับแต่งอัตโนมัติ";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "อัปโหลดรหัส QR";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "ใช้สะพานปรับแต่งเอง";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "ใช้รหัส QR";

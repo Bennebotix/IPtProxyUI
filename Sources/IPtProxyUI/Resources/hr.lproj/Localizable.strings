@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@ %2$@ prikazuje tvoj promet kao „slučajni”.";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@ %2$@ prikazuje promet kao telefonski poziv slučajnom korisniku na mreži.";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "Automatsko konfiguriranje";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "Konfiguracija mosta";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "Ugrađeni %@";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "Pristup kameri nije odobren ili uređaj ne podržava skeniranje QR koda.";
+
+/* AlertHelper */
+"Cancel" = "Otkaži";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "Kopiraj URL u međuspremnik";
+
+/* MoatViewController */
+"Couldn't understand server response." = "Nije bilo moguće razumjeti odgovor poslužitelja.";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "Prilagođeni mostovi";
+
+/* Transport */
+"custom bridges" = "prilagođenih mostova";
+
+/* AlertHelper */
+"Error" = "Greška";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "Ne mogu se povezati bez mosta.";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "Ako jedan od mostova ne radi, pokušaj koristiti jedan drugi.";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "Ako si u zemlji ili ako koristiš vezu koja cenzurira Tor, možda moraš koristiti mostove.";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "U zasebnom pregledniku posjeti %@ i dodirni „Nabavi mostove” > „Samo mi daj mostove!”";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek bridge";
+
+/* BridgeConfViewController */
+"No Bridges" = "Bez mostova";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "Neuspjeh, ali umjesto toga „%@”.";
+
+/* ApiError */
+"No valid HTTP response." = "Nema ispravnog HTTP odgovora.";
+
+/* Transport */
+"Obfs4 bridges" = "Obfs4 mostova";
+
+/* AlertHelper */
+"OK" = "U redu";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "On-demand bridges";
+
+/* CustomBridgesViewController */
+"Other" = "Ostalo";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "Umetni mostove";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "Nije moguće dekodirati QR kod! Je li QR kod skeniran sa stranice %@?";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "Zatraži mostove s torproject.org";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "Zahtjev nije moguće formirati. Provjeri računalo i korisničko ime/lozinku!";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "Zatraži putem e-maila";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "Zatraži putem Telegrama";
+
+/* ApiError */
+"Response body missing." = "Nedostaje glavni tekst odgovora.";
+
+/* BridgesConfViewController+Shared */
+"Save" = "Spremi";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "Skeniraj QR kod";
+
+/* Transport */
+"Snowflake bridges" = "Snowflake mostova";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "Snowflake mostova (AMP rendezvous)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "Pokušaj automatsko konfiguriranje";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "Prenesi QR kod";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "Koristi prilagođene mostove";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "Koristi QR kod";

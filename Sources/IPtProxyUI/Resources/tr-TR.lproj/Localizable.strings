@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@ %2$@ trafiğinizin \"rastgele\" görünmesini sağlar.";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@ %2$@ trafiğinizin ağ üzerindeki rastgele bir kullanıcı ile yapılan bir telefon görüşmesi gibi görünmesini sağlar.";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "Otomatik yapılandırma";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "Köprü yapılandırması";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "İç %@";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "Kamera erişim izni verilmemiş ya da aygırınız kare kod taramayı desteklemiyor.";
+
+/* AlertHelper */
+"Cancel" = "İptal";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "Adresi panoya kopyala";
+
+/* MoatViewController */
+"Couldn't understand server response." = "Sunucunun verdiği yanıt anlaşılamadı.";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "Özel köprüler";
+
+/* Transport */
+"custom bridges" = "Özel köprüler";
+
+/* AlertHelper */
+"Error" = "Hata";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "Bir köprü kullanmadan bağlantı kuramayacağımdan eminim.";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "Bir köprü türü çalışmaz ise başkasını deneyin.";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "Bulunduğunuz ülke ya da kullandığınız bağlantı Tor ağını engelliyorsa köprü kullanmalısınız.";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "Ayrı bir tarayıcı ile %@ adresine giderek \"Köprüleri al\"  > \"Yalnızca köprüleri al\" üzerine dokunun";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek köprüsü";
+
+/* BridgeConfViewController */
+"No Bridges" = "Köprü yok";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "Tamamlanamadı ancak yerine \"%@\".";
+
+/* ApiError */
+"No valid HTTP response." = "Geçerli bir HTTP yanıtı alınamadı.";
+
+/* Transport */
+"Obfs4 bridges" = "Obfs4 köprüleri";
+
+/* AlertHelper */
+"OK" = "Tamam";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "İsteğe bağlı köprüler";
+
+/* CustomBridgesViewController */
+"Other" = "Diğer";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "Köprüleri yapıştır";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "Kare kod çözümlenemedi! %@ adresindeki bir kare kodu taradığınızdan emin misiniz?";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "torproject.org üzerinden köprü isteğinde bulunun";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "İstek düzenlenemedi. Lütfen sunucu adı, kullanıcı adı ve parolayı denetleyin!";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "E-posta ile isteyin";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "Telegram üzerinden isteyin";
+
+/* ApiError */
+"Response body missing." = "Yanıt içeriği eksik.";
+
+/* BridgesConfViewController+Shared */
+"Save" = "Kaydet";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "Kare kodu tarayın";
+
+/* Transport */
+"Snowflake bridges" = "Snowflake köprüleri";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "Snowflake köprüleri (AMP randevusu)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "Otomatik yapılandırma denensin";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "Kare kodu yükleyin";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "Özel köprüler kullanılsın";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "Kare kodu kullan";

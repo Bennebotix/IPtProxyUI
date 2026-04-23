@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@%2$@membuat lalu lintas Anda tampak \"acak\".";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@%2$@membuat lalu lintas Anda terlihat seperti panggilan telepon ke pengguna acak di internet.";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "Konfigurasi Otomatis";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "Konfigurasi Jembatan";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "Bawaan %@";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "Akses kamera tidak diberikan atau pemindaian Kode QR tidak didukung oleh perangkat Anda.";
+
+/* AlertHelper */
+"Cancel" = "Cancel";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "Salin URL ke Papan Klip";
+
+/* MoatViewController */
+"Couldn't understand server response." = "Tidak dapat memahami respons server.";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "Jembatan Khusus";
+
+/* Transport */
+"custom bridges" = "jembatan ubahan";
+
+/* AlertHelper */
+"Error" = "Galat";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "Saya yakin tidak bisa menyambung tanpa suatu jembatan.";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "Jika satu jenis jembatan tidak berfungsi, coba gunakan yang lain.";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "Jika Anda berada di suatu negara atau menggunakan koneksi yang menyensor Tor, Anda mungkin perlu menggunakan jembatan.";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "Di peramban terpisah, kunjungi %@ dan ketuk \"Dapatkan Jembatan\" > \"Beri Saya Jembatan!\"";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek bridge";
+
+/* BridgeConfViewController */
+"No Bridges" = "Tidak Ada Jembatan";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "Tidak berhasil, tetapi \"%@\" sebagai gantinya.";
+
+/* ApiError */
+"No valid HTTP response." = "Tidak ada respons HTTP yang valid.";
+
+/* Transport */
+"Obfs4 bridges" = "Jembatan obfs4";
+
+/* AlertHelper */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "Jembatan saat-perlu";
+
+/* CustomBridgesViewController */
+"Other" = "Lainnya";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "Tempel Jembatan";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "Kode QR tidak dapat diterjemahkan! Apakah Anda yakin telah memindai kode QR dari %@?";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "Meminta Jembatan dari torproject.org";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "Permintaan tidak dapat dibentuk. Silakan periksa host dan nama pengguna/kata sandi!";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "Permintaan melalui Surel";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "Minta melalui Telegram";
+
+/* ApiError */
+"Response body missing." = "Badan respon menghilang.";
+
+/* BridgesConfViewController+Shared */
+"Save" = "Simpan";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "Pindai kode QR";
+
+/* Transport */
+"Snowflake bridges" = "Jembatan Snowflake";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "Jembatan Snowflake (rendezvous AMP)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "Coba Konfigurasi Otomatis";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "Unggah Kode QR";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "Gunakan Jembatan Khusus";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "Gunakan Kode QR";

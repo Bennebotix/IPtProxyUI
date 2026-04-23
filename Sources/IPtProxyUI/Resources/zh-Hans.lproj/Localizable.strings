@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@%2$@ 是你的网络流量变得“随机”。";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@ %2$@ 让你的流量看起来像给互联网随机用户的语音通话。";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "自动配置";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "网桥配置";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "内置 %@";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "未授予相机访问权限，或您的设备不支持二维码扫描。";
+
+/* AlertHelper */
+"Cancel" = "取消";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "复制 URL 到剪贴板";
+
+/* MoatViewController */
+"Couldn't understand server response." = "无法解析服务器回应。";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "自定义网桥";
+
+/* Transport */
+"custom bridges" = "定制网桥";
+
+/* AlertHelper */
+"Error" = "错误";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "我确定没有网桥将无法连接。";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "如果网桥不管用，请尝试其他的类型。";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "如果你的国家或网络审查 Tor，你可能需要使用网桥。";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "在其他浏览器中，访问 %@ 然后点击“获取网桥” > “Just Give Me Bridges!”";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek bridge";
+
+/* BridgeConfViewController */
+"No Bridges" = "无网桥";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "服务器返回%@而不是成功执行。";
+
+/* ApiError */
+"No valid HTTP response." = "无有效HTTP响应。";
+
+/* Transport */
+"Obfs4 bridges" = "Obfs4 网桥";
+
+/* AlertHelper */
+"OK" = "确定";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "On-demand bridges";
+
+/* CustomBridgesViewController */
+"Other" = "其它";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "粘贴网桥";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "该二维码无法被解析！请确认当前扫描的二维码是否来自%@。";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "从 torproject.org 获取网桥";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "无法生成请求。请检查主机名和用户名/密码！";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "通过电子邮件请求";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "通过 Telegram 请求";
+
+/* ApiError */
+"Response body missing." = "回复的主体部分丢失。";
+
+/* BridgesConfViewController+Shared */
+"Save" = "保存";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "扫描二维码";
+
+/* Transport */
+"Snowflake bridges" = "Snowflake 网桥";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "Snowflake 网桥（AMP 隐藏）";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "尝试自动配置";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "上传二维码";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "使用自定义网桥";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "使用二维码";

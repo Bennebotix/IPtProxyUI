@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@%2$@ робить ваш трафік схожим на «випадковий».";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@ %2$@ робить ваш трафік схожим на телефонний дзвінок до випадкового користувача в мережі.";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "Автоматичні налаштування";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "Налаштування мосту";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "Вбудовано %@";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "Доступ до камери не надано, або сканування QR-коду не підтримується вашим пристроєм.";
+
+/* AlertHelper */
+"Cancel" = "Скасувати";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "Скопіювати URL до буфера обміну";
+
+/* MoatViewController */
+"Couldn't understand server response." = "Не вдалось розпізнати відповідь сервера.";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "Власні мости";
+
+/* Transport */
+"custom bridges" = "власні мости";
+
+/* AlertHelper */
+"Error" = "Помилка";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "Я впевнений, що не зможу приєднатись без мосту.";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "Якщо один тип мосту не працює, спробуйте використати інший.";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "Якщо ви перебуваєте в країні або використовуєте з'єднання, яке цензорує Tor, можливо, вам доведеться використовувати мости.";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "В іншому браузері перейдіть до %@ та натисніть «Отримати мости» > «Просто дайте мені мости!».";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek bridge";
+
+/* BridgeConfViewController */
+"No Bridges" = "Без мостів";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "Не вдалось. У відповідь отримано «%@».";
+
+/* ApiError */
+"No valid HTTP response." = "Немає дійсної відповіді HTTP.";
+
+/* Transport */
+"Obfs4 bridges" = "Мости Obfs4";
+
+/* AlertHelper */
+"OK" = "Гаразд";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "On-demand bridges";
+
+/* CustomBridgesViewController */
+"Other" = "Інше";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "Вставити мости";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "QR-код не вдалось розпізнати! Ви впевнені, що відсканували QR-код від %@?";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "Запитати мости від torproject.org";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "Не вдалось сформувати запит. Будь ласка, перевірте хост та ім'я користувача / пароль!";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "Запитати за допомогою E-Mail";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "Request via Telegram";
+
+/* ApiError */
+"Response body missing." = "Немає тіла відповіді.";
+
+/* BridgesConfViewController+Shared */
+"Save" = "Зберегти";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "Сканувати QR-код";
+
+/* Transport */
+"Snowflake bridges" = "Мости Snowflake";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "Мости Snowflake (технологія AMP)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "Спробувати автоматичне налаштування";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "Вивантажити QR-код";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "Використати власні мости";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "Використати QR-код";

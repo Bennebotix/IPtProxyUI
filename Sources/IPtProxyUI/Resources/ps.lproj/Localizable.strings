@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@%2$@ ستاسې ټرافيک \"ناټاکلی\" څرګندوي.";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@ %2$@ makes your traffic look like a phone call to a random user on the net.";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "Automatic Configuration";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "پول سازونه";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "منځروغى %@";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "کېمرې ته لاسرسۍ ور نه کړل شو یا ستاسې وزله کيو.آر کوډ نه شي ځېرلی.";
+
+/* AlertHelper */
+"Cancel" = "لېرې کول";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "پته ټوټه دړې ته لمېسل";
+
+/* MoatViewController */
+"Couldn't understand server response." = "د پالنګر ځواب باندې پوه نه شو.";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "دودیز پولونه";
+
+/* Transport */
+"custom bridges" = "custom bridges";
+
+/* AlertHelper */
+"Error" = "تېروتنه";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "I'm sure I cannot connect without a bridge.";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "که کوم یو پول کار نه کوي، نو د بل یو کارولو هڅه وکړئ.";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "که تاسې پر داسې کوم هېواد کښې یاست او یا له داسې کوم پیوستون نه کار اخلئ چې هغه پر ټور بنديز لګوي، نو تاسې ښايي چې له پولونو کار واخلئ.";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "په یو بېل لټونګر کښې، %@ ته لاړ شئ او \"Get Bridges\" ووهئ او بیا \"Just Give Me Bridges!\" ووهئ.";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek bridge";
+
+/* BridgeConfViewController */
+"No Bridges" = "هېڅ پول";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "No success, but \"%@\" instead.";
+
+/* ApiError */
+"No valid HTTP response." = "No valid HTTP response.";
+
+/* Transport */
+"Obfs4 bridges" = "Obfs4 bridges";
+
+/* AlertHelper */
+"OK" = "سمه ده";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "On-demand bridges";
+
+/* CustomBridgesViewController */
+"Other" = "نور";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "پولونه سرېښل";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "QR کوډ بې شِفره نه شو. آیا ډاډه یاستئ چې تاسې له %@ نه QR کوډ ځېرلئ وو؟";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "له torproject.org څخه د پولونو غوښتنه وکړئ";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "Request could not be formed. Please check host and username/password!";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "برېښليک له لارې غوښتل";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "Request via Telegram";
+
+/* ApiError */
+"Response body missing." = "Response body missing.";
+
+/* BridgesConfViewController+Shared */
+"Save" = "Save";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "QR کوډ ځېرل";
+
+/* Transport */
+"Snowflake bridges" = "Snowflake bridges";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "Snowflake bridges (AMP rendezvous)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "Try Auto-Configuration";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "QR کوډ ورلېښل ";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "دودیز پولونه کارول";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "QR کوډ کارونه";

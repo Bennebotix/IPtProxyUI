@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@%2$@ làm lưu lượng của bạn trông \"ngẫu nhiên\".";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@ %2$@ khiến lưu lượng của bạn giống như một cuộc gọi ngẫu nhiên trên mạng.";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "Automatic Configuration";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "Cài đặt Cầu nối";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "%@ cài sẵn";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "Ứng dụng không được cấp quyền truy cập Camera hoặc quét mã QR không khả dụng trên điện thoại bạn.";
+
+/* AlertHelper */
+"Cancel" = "Huỷ";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "Sao chép URL vào bảng nhớ tạm";
+
+/* MoatViewController */
+"Couldn't understand server response." = "Không hiểu được phản hồi từ máy chủ.";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "Cầu nối tùy chọn";
+
+/* Transport */
+"custom bridges" = "custom bridges";
+
+/* AlertHelper */
+"Error" = "Lỗi";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "I'm sure I cannot connect without a bridge.";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "Nếu một cầu nối không hoạt động, hãy thử lựa chọn khác.";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "Nếu bạn sống ở nơi mà Tor bị kiểm duyệt, bạn có thể sẽ cần dùng cầu nối.";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "Trong một trình duyệt khác, truy cập %@ và nhấn \"Get Bridges\" > \"Just Give Me Bridges!\"";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek bridge";
+
+/* BridgeConfViewController */
+"No Bridges" = "Không cầu nối";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "Không thành công, thay vào đó \"%@\".";
+
+/* ApiError */
+"No valid HTTP response." = "Không có phản hồi HTTP hợp lệ.";
+
+/* Transport */
+"Obfs4 bridges" = "Obfs4 bridges";
+
+/* AlertHelper */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "On-demand bridges";
+
+/* CustomBridgesViewController */
+"Other" = "Khác";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "Dán địa chỉ cầu nối";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "Không thể giải mã QR! Bạn có chắc bạn đã quét mã QR trên %@?";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "Yêu cầu cầu nối từ torproject.org";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "Yêu cầu của bạn không thể được thực hiện. Vui lòng kiểm tra tên miền và tên người dùng/mật khẩu!";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "Yêu cầu qua E-Mail";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "Request via Telegram";
+
+/* ApiError */
+"Response body missing." = "Thiếu nội dung phản hồi.";
+
+/* BridgesConfViewController+Shared */
+"Save" = "Lưu";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "Quét mã QR";
+
+/* Transport */
+"Snowflake bridges" = "Snowflake bridges";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "Snowflake bridges (AMP rendezvous)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "Try Auto-Configuration";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "Tải lên mã QR";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "Dùng cầu nối tùy chọn";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "Dùng mã QR";

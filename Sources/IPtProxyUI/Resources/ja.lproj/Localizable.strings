@@ -1,0 +1,116 @@
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "obfs4" */
+"%1$@ %2$@ makes your traffic appear \"random\"." = "%1$@ %2$@ 接続がランダムに見えるよう偽装します";
+
+/* BridgeConfViewController; first placeholder is bullet point (\u{2022}), second placeholder is bridge type "snowflake" */
+"%1$@ %2$@ makes your traffic look like a phone call to a random user on the net." = "%1$@%2$@はトラフィックをランダムなネット上のユーザへの普通の電話通信に見えるようにする。";
+
+/* BridgesConfViewController */
+"Automatic Configuration" = "自動設定";
+
+/* BridgeConfViewController */
+"Bridge Configuration" = "ブリッジの設定";
+
+/* BridgeConfViewController; placeholder contains bridge type names: "meek" or "obfs4" */
+"Built-in %@" = "Built-in %@";
+
+/* ScanQrViewController */
+"Camera access was not granted or QR Code scanning is not supported by your device." = "カメラへのアクセスは許可されていません。あるいは、QRコードがこのデバイスでサポートされていません。";
+
+/* AlertHelper */
+"Cancel" = "取り消す";
+
+/* CustomBridgesViewController */
+"Copy URL to Clipboard" = "URLをClipboardにコピー";
+
+/* MoatViewController */
+"Couldn't understand server response." = "サーバーのレスポンスが理解できませんでした";
+
+/* BridgeConfViewController */
+"Custom Bridges" = "カスタムブリッジ";
+
+/* Transport */
+"custom bridges" = "カスタムブリッジ";
+
+/* AlertHelper */
+"Error" = "エラー";
+
+/* BridgesConfViewController */
+"I'm sure I cannot connect without a bridge." = "ブリッジなしで接続できません";
+
+/* BridgeConfViewController */
+"If one type of bridge does not work, try using a different one." = "機能しない場合、別のタイプのブリッジを試してください。";
+
+/* BridgeConfViewController */
+"If you are in a country or using a connection that censors Tor, you might need to use bridges." = "Torへの接続が検閲されている国では、ブリッジを使用する必要があるかもしれません。";
+
+/* CustomBridgesViewController; placeholder contains "https://bridges.torproject.org/", please visit that page and copy texts for your language! */
+"In a separate browser, visit %@ and tap \"Get Bridges\" > \"Just Give Me Bridges!\"" = "別のブラウザで %@ を開き、「Get Bridges」> 「Just Give Me Bridges!」に進んでください。";
+
+/* No comment provided by engineer. */
+"Meek bridge" = "Meek bridge";
+
+/* BridgeConfViewController */
+"No Bridges" = "ブリッジなし";
+
+/* ApiError, placeholder is a non-success status from the server. */
+"No success, but \"%@\" instead." = "成功なし: \"%@\"";
+
+/* ApiError */
+"No valid HTTP response." = "有効なHTTPレスポンスがありません";
+
+/* Transport */
+"Obfs4 bridges" = "Obfs4 bridges";
+
+/* AlertHelper */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"On-demand bridges" = "On-demand bridges";
+
+/* CustomBridgesViewController */
+"Other" = "その他";
+
+/* CustomBridgesViewController */
+"Paste Bridges" = "ブリッジを貼り付け";
+
+/* CustomBridgesViewController; placeholder is "" "https://bridges.torproject.org/" */
+"QR Code could not be decoded! Are you sure you scanned a QR code from %@?" = "QRコードを解読できませんでした。本当に%@からのQRコードですか？";
+
+/* BridgeConfViewController */
+"Request Bridges from torproject.org" = "torproject.orgにブリッジを依頼";
+
+/* ApiError */
+"Request could not be formed. Please check host and username/password!" = "ブリッジ依頼を形成できませんでした。ホスト名・ユーザー名などを確認してください";
+
+/* CustomBridgesViewController */
+"Request via E-Mail" = "メールで依頼";
+
+/* CustomBridgesViewController */
+"Request via Telegram" = "Telegram経由でリクエスト";
+
+/* ApiError */
+"Response body missing." = "レスポンスが空です";
+
+/* BridgesConfViewController+Shared */
+"Save" = "保存";
+
+/* CustomBridgesViewController, ScanQrViewController */
+"Scan QR Code" = "QCコードをスキャン";
+
+/* Transport */
+"Snowflake bridges" = "Snowflake bridges";
+
+/* Transport */
+"Snowflake bridges (AMP rendezvous)" = "Snowflake bridges (AMP rendezvous)";
+
+/* BridgesConfViewController */
+"Try Auto-Configuration" = "自動設定を試みる";
+
+/* CustomBridgesViewController */
+"Upload QR Code" = "QRコードをアップロード";
+
+/* CustomBridgesViewController */
+"Use Custom Bridges" = "カスタムブリッジを使用";
+
+/* CustomBridgesViewController */
+"Use QR Code" = "QRコードを使用";
