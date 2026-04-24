@@ -1,9 +1,26 @@
 import AppKit
 
+public let MBProgressHUDModeCustomView: Int = 1
+
 public class MBProgressHUD: NSView {
+    public var mode: Int = 0
+    public var customView: NSView? {
+        didSet {
+            if let cv = customView {
+                spinner.isHidden = true
+                cv.translatesAutoresizingMaskIntoConstraints = false
+                visualEffectView.addSubview(cv)
+                NSLayoutConstraint.activate([
+                    cv.centerXAnchor.constraint(equalTo: visualEffectView.centerXAnchor),
+                    cv.centerYAnchor.constraint(equalTo: visualEffectView.centerYAnchor)
+                ])
+            }
+        }
+    }
+    
     private let visualEffectView = NSVisualEffectView()
     private let spinner = NSProgressIndicator()
-    
+
     @discardableResult
     public static func showAdded(to view: NSView, animated: Bool) -> MBProgressHUD {
         let hud = MBProgressHUD(frame: view.bounds)
@@ -18,10 +35,10 @@ public class MBProgressHUD: NSView {
         return hud
     }
 
-    public static func hide(for view: NSView, animated: Bool) -> Bool {
-        let huds = view.subviews.filter { $0 is MBProgressHUD }
-        huds.forEach { $0.removeFromSuperview() }
-        return !huds.isEmpty
+    public func hide(_ animated: Bool, afterDelay delay: TimeInterval = 0) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + delay) {
+            self.removeFromSuperview()
+        }
     }
 
     override init(frame frameRect: NSRect) {
@@ -29,10 +46,7 @@ public class MBProgressHUD: NSView {
         setup()
     }
 
-    required init?(coder: NSCoder) {
-        super.init(coder: coder)
-        setup()
-    }
+    required init?(coder: NSCoder) { fatalError() }
 
     private func setup() {
         visualEffectView.blendingMode = .withinWindow
@@ -47,7 +61,7 @@ public class MBProgressHUD: NSView {
         spinner.startAnimation(nil)
 
         addSubview(visualEffectView)
-        addSubview(spinner)
+        visualEffectView.addSubview(spinner)
         
         NSLayoutConstraint.activate([
             visualEffectView.centerXAnchor.constraint(equalTo: centerXAnchor),
